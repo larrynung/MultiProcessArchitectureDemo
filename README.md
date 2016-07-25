@@ -1,5 +1,6 @@
 MultiProcessArchitectureDemo
 ============================
+[![Build status](https://ci.appveyor.com/api/projects/status/krny02j8jveunkym?svg=true)](https://ci.appveyor.com/project/larrynung/multiprocessarchitecturedemo)
 
 Demo how to do a Multi-process Architecture application like chrome
 
